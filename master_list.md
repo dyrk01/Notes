@@ -1,9 +1,9 @@
 #### HTML
 -Q1) What is HTML? <br/>
--A1) It is used to create webpages.
+-A1) It is the structure of a webpage.
 
   
-<img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="60%"/>  
+<img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="50%"/>  
 -Q2) Identify the html elements in the above webpage <br/>
 -A2) Search Bar <br/>
      Navigation bar <br/>
@@ -22,5 +22,14 @@ Borders <br/>
      
 
 #### CSS
+-Q1) What is CSS? <br/>
+-A1) It creates the styling of a webpage <br/>
+
 #### Javascript
+-Q1) What is Javascript ? <br/>
+-A1) It makes the website interactive <br/>
+
+-Q2) What makes a website interactive ? <br/>
+-A2) If a user is able to change the shape of a website by an action, it is considered interactive <br/>
+
 #### Java Server Pages
