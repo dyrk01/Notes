@@ -1,4 +1,9 @@
 #### HTML
+##### Rules of HTML
+- Almost all html elements has an opening and closing tag <br/>
+- There are some elements that are self closing tag <br/>
+
+
 -Q1) What is HTML? <br/>
 -A1) It is the structure of a webpage.
 
@@ -19,6 +24,8 @@ Font color <br/>
 Font size <br/>
 Font style <br/>
 Borders <br/>
+-Q4) What is the purpose of an opening and closing tags <br/>
+-A4) It informs the browser the start and end of an element in a webpage <br/>
      
 
 #### CSS
