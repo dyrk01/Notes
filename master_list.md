@@ -1,6 +1,6 @@
 #### HTML
 -Q1) What is HTML? <br/>
--A1) It is used to create a webpage.
+-A1) It is used to create webpages.
 
   
 <img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="60%"/>  
