@@ -30,14 +30,8 @@ Borders <br/>
 <br/>
 -Q4) What is the purpose of an opening and closing tags <br/>
 -A4) It informs the browser the start and end of an element in a webpage <br/>
+
 <br/>
-##### HTML Table <br/>
-| HTML Tag    | Description |
-| :----:      |    :----:    | 
-| Header      | Title        |
-| Paragraph   | Text         | 
-
-
 #### CSS
 -Q1) What is CSS? <br/>
 -A1) It creates the styling of a webpage <br/>
