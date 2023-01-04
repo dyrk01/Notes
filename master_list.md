@@ -10,7 +10,8 @@
   
 <img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="50%"/>  
 -Q2) Identify the html elements in the above webpage <br/>
--A2) Search Bar <br/>
+-A2) <br/>
+     Search Bar <br/>
      Navigation bar <br/>
      Images <br/>
      Text <br/>
@@ -18,15 +19,19 @@
      Page structure <br/>
      Hyperlinks <br/>
      Lists <br/>
+     <br/>
 -Q3) Identify the css elements in the above webpage <br/>
--A3) Background color <br/>
+-A3) 
+Background color <br/>
 Font color <br/>
 Font size <br/>
 Font style <br/>
 Borders <br/>
+<br/>
 -Q4) What is the purpose of an opening and closing tags <br/>
 -A4) It informs the browser the start and end of an element in a webpage <br/>
-
+<br/>
+##### HTML Table <br/>
 | HTML Tag    | Description |
 | :----:      |    :----:    | 
 | Header      | Title        |
