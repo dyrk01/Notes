@@ -2,7 +2,7 @@
 ##### Rules of HTML
 - Almost all html elements has an opening and closing tag <br/>
 - There are some elements that are self closing tag <br/>
-
+- The html page should be named index.html as web servers will look for this homepage in a website <br/>
 
 -Q1) What is HTML? <br/>
 -A1) It is the structure of a webpage.
@@ -26,7 +26,12 @@ Font style <br/>
 Borders <br/>
 -Q4) What is the purpose of an opening and closing tags <br/>
 -A4) It informs the browser the start and end of an element in a webpage <br/>
-     
+
+| HTML Tag    | Description |
+| :----:      |    :----:    | 
+| Header      | Title        |
+| Paragraph   | Text         | 
+
 
 #### CSS
 -Q1) What is CSS? <br/>
