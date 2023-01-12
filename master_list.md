@@ -42,3 +42,23 @@ Borders <br/>
 -A2) If a user is able to change the shape of a website by an action, it is considered interactive <br/>
 
 #### Java Server Pages
+
+
+
+
+### CE204 
+#### Lesson 1 - 4 
+###### Javascript 
+-Variables  <br/>
+-Data types  <br/>
+-Operators  <br/>
+-Alert window   <br/>
+-document.write  <br/>
+
+
+###### CSS  <br/>
+-background color  <br/>
+-inline style  <br/>
+-font size  <br/>
+-font color  <br/>
+
