@@ -48,17 +48,35 @@ Borders <br/>
 
 ### CE204 
 #### Lesson 1 - 4 
-###### Javascript 
--Variables  <br/>
--Data types  <br/>
--Operators  <br/>
--Alert window   <br/>
--document.write  <br/>
 
+##### Html
+- Line break
+- navigation bar
+- todo list
+- table (v impt)
+- form (v impt)
 
 ###### CSS  <br/>
--background color  <br/>
--inline style  <br/>
--font size  <br/>
--font color  <br/>
+- background color  <br/>
+- inline style  <br/>
+- font size  <br/>
+- font color  <br/>
+
+
+###### Javascript 
+- Javascript is case sensitive <br/>
+- Variables: container to store something  <br/>
+- var, let: declaring a variable
+- Data types: string,double,float,integer,boolean  <br/>
+- Operators:  <br/>
+- document.write: able to show x value in the document <br/>
+- Alert window: shows an alert window in the browser <br/>
+- prompt: prompt the user to input a value. the value will be a string <br/>
+- parse(): converts one data type to another <br/>
+- fixed: round off the number to specified decimal places <br/>
+- If else: do x if it meets the criteria, otherwise do y <br/>
+- while loop: while this condition is true, repeat action till condition is false <br/>
+- function: re=reuns the code everytime it is called </br>
+
+
 
