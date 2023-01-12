@@ -65,6 +65,8 @@ Borders <br/>
 
 ###### Javascript 
 - Javascript is case sensitive <br/>
+- Every line must be closed with a semicolon ; </br>
+- Javascript makes a webpage dynamic and responsive </br>
 - Variables: container to store something  <br/>
 - var, let: declaring a variable
 - Data types: string,double,float,integer,boolean  <br/>
@@ -77,6 +79,8 @@ Borders <br/>
 - If else: do x if it meets the criteria, otherwise do y <br/>
 - while loop: while this condition is true, repeat action till condition is false <br/>
 - function: re=reuns the code everytime it is called </br>
+- Function can be activated by various way such as by event such as mouse click or by loading webpage </br>
+- Example of events are mouse click , keypress trigger </br>
 
 
 
