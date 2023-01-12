@@ -1,20 +1,20 @@
 #### HTML
 ##### Rules of HTML
-- Almost all html elements has an opening and closing tag <br/>
-- There are some elements that are self closing tag <br/>
+- Almost all html elements has an opening and closing tag <br>
+- There are some elements that are self closing tag <br>
 - The html page should be named index.html as web servers will look for this homepage in a website <br/>
 
--Q1) What is HTML? <br/>
+-Q1) What is HTML? <br>
 -A1) It is the structure of a webpage.
 
   
 <img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="50%"/>  
--Q2) Identify the html elements in the above webpage <br/>
--A2) <br/>
-     Search Bar <br/>
-     Navigation bar <br/>
-     Images <br/>
-     Text <br/>
+-Q2) Identify the html elements in the above webpage <br>
+-A2) <br>
+     Search Bar <br>
+     Navigation bar <br>
+     Images <br>
+     Text <br>
      Shortcut menu <br/>
      Page structure <br/>
      Hyperlinks <br/>
@@ -72,6 +72,7 @@ Borders <br/>
 - Data types: string,double,float,integer,boolean  <br/>
 - Operators:  <br/>
 - document.write: able to show x value in the document <br/>
+- document.element id: getting an element by its id to use it <br/>
 - Alert window: shows an alert window in the browser <br/>
 - prompt: prompt the user to input a value. the value will be a string <br/>
 - parse(): converts one data type to another <br/>
@@ -80,7 +81,7 @@ Borders <br/>
 - while loop: while this condition is true, repeat action till condition is false <br/>
 - function: re=reuns the code everytime it is called </br>
 - Function can be activated by various way such as by event such as mouse click or by loading webpage </br>
-- Example of events are mouse click , keypress trigger </br>
+- Example of events are mouse click , keypress trigger <br/>
 
 
 
