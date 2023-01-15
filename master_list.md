@@ -1,69 +1,63 @@
 #### HTML
 ##### Rules of HTML
-- Almost all html elements has an opening and closing tag <br>
-- There are some elements that are self closing tag <br>
-- The html page should be named index.html as web servers will look for this homepage in a website <br/>
+- Almost all html elements has an opening and closing tag 
+- There are some elements that are self closing tag 
+- The html page should be named index.html as web servers will look for this homepage in a website
 
--Q1) What is HTML? <br>
--A1) It is the structure of a webpage.
-
-  
-<img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="50%"/>  
--Q2) Identify the html elements in the above webpage <br>
--A2) <br>
-     Search Bar <br>
-     Navigation bar <br>
-     Images <br>
-     Text <br>
-     Shortcut menu <br/>
-     Page structure <br/>
-     Hyperlinks <br/>
-     Lists <br/>
-     <br/>
--Q3) Identify the css elements in the above webpage <br/>
--A3) 
-Background color <br/>
-Font color <br/>
-Font size <br/>
-Font style <br/>
-Borders <br/>
-<br/>
--Q4) What is the purpose of an opening and closing tags <br/>
--A4) It informs the browser the start and end of an element in a webpage <br/>
-
--Q1) What is CSS? <br/>
--A1) It creates the styling of a webpage <br/>
-
-#### Javascript
--Q1) What is Javascript ? <br/>
--A1) It makes the website interactive <br/>
-
--Q2) What makes a website interactive ? <br/>
--A2) If a user is able to change the shape of a website by an action, it is considered interactive <br/>
-
-#### Java Server Pages
+-Q1) What is HTML? <br/>
+- It is the structure of a webpage.
 
 
-
-
-### CE204 
-#### Lesson 1 - 4 
-
-##### Html
+#### Lesson Takeaway
 - Line break
 - navigation bar
 - todo list
 - table (v impt)
 - form (v impt)
 
-###### CSS  <br/>
+
+  
+<img src="/assets/html_example.PNG" alt="MarineGEO circle logo" width="50%"/>  
+-Q2) Identify the html elements in the above webpage
+
+- Search Bar 
+- Navigation bar  
+- Images 
+- Text 
+- Shortcut menu 
+- Page structure 
+- Hyperlinks 
+- Lists 
+    
+-Q3) Identify the css elements in the above webpage 
+
+- Background color 
+- Font color 
+- Font size 
+- Font style 
+- Borders 
+
+-Q4) What is the purpose of an opening and closing tags 
+- It informs the browser the start and end of an element in a webpage <br/>
+
+#### CSS
+-Q1) What is CSS? 
+- It creates the styling of a webpage 
+
+#### Lesson Takeaway
 - background color  <br/>
 - inline style  <br/>
 - font size  <br/>
 - font color  <br/>
 
+#### Javascript
+-Q1) What is Javascript ? 
+- It makes the website interactive 
 
-###### Javascript 
+-Q2) What makes a website interactive ? 
+- If a user is able to change the shape of a website by an action, it is considered interactive
+
+#### Lesson Takeaway
 - Javascript is case sensitive <br/>
 - Every line must be closed with a semicolon ; </br>
 - Javascript makes a webpage dynamic and responsive </br>
@@ -83,6 +77,8 @@ Borders <br/>
 - Function can be activated by various way such as by event such as mouse click or by loading webpage </br>
 - Example of events are mouse click , keypress trigger <br/>
 
+#### Java Server Pages
+
 
 
 ### CE212
@@ -90,32 +86,34 @@ Borders <br/>
 ###### Data Structures and Algos 
 
 ### Lesson 3
-- Q) What is a Binary Tree data structure? 
+- Q1) What is a Binary Tree data structure? 
 - It is a tree like data structure. <br/>
 
-- Q) Example of a binary tree data structure 
-<img src="/assets/binary_tree.png" alt="Binary Tree Example" width="20%"/>  
-- A is the root <br/>
-- Each entry is a node <br/>
-- Every node is connected by links called edges which defines the relationships between <br/>
-- Every node has a parent above it except the root <br/>
-- Each node has a left or right child or none or both <br/>
-- Every node can have a maximum of 2 nodes hence it is called a binary tree <br/>
-- A node with no children is called a leaf <br/>
-- A node contains a value or data <br/>
-- There are two subtrees in the example above (b,d,e and c,f,g) <br/>
-- The height of a tree is the length of the longest path to the leaf <br/>
-- In the example above, the height of a tree is 4 <br/>
-- The size of a tree is the number of nodes <br/>
-- In the example above, the size of a treee is 8 <br/>
-- The depth of a node is the length of the path from the root that particular node <br/> 
-- In the example above, the depth of node 8 is 4 <br/> 
-- The height of a node is measured from the node to the deepest leaf <br/>
-- In the example above, the height of node 2 is 3 <br/> 
+- Q2) Example of a binary tree data structure <br/>
+<img src="/assets/binary_tree.png" alt="Binary Tree Example" width="15%"/> 
 
-- Q) Definition of tree traversal ? <br/>
--  <br/>
+- A is the root 
+- Each entry is a node 
+- Every node is connected by links called edges which defines the relationships between 
+- Every node has a parent above it except the root 
+- Each node has a left or right child or none or both 
+- Every node can have a maximum of 2 nodes hence it is called a binary tree 
+- A node with no children is called a leaf 
+- A node contains a value or data 
+- There are two subtrees in the example above (b,d,e and c,f,g) 
+- The height of a tree is the length of the longest path to the leaf 
+- In the example above, the height of a tree is 4 
+- The size of a tree is the number of nodes 
+- In the example above, the size of a treee is 8
+- The depth of a node is the length of the path from the root that particular node 
+- In the example above, the depth of node 8 is 4 
+- The height of a node is measured from the node to the deepest leaf 
+- In the example above, the height of node 2 is 3 
 
-- Q) How do we traverse a tree ? <br/>
--  <br/>
-  
+-Q3) Definition of tree traversal ?
+- Tree traversal is a process where it visits all the nodes in the tree 
+
+-Q4) How do we traverse a tree ? 
+- Method 1: 
+- Method 2: 
+- Method 3:
