@@ -116,19 +116,19 @@
 - Type 1: Depth first search (PreOrder,InOrder,PostOrder)
 - Type 2: Breadth first search (LevelOrder)
 
--Q4) How do we traverse a tree ? 
+-Q4) How do we traverse a tree ? <br/>
 - Method 1: PreOrder
 - Steps: Visit parent first and left children first then right children.
 - In the example above, the preorder output is 8,5,9,7,1,12,2,4,11,3
 
-- Method 2: InOrder
-- Steps: Visit left children then the parent then right children.
-- In the example above, the inorder ouput is 9,5,1,7,2,12,8,4,3,11
+  - Method 2: InOrder
+  - Steps: Visit left children then the parent then right children.
+  - In the example above, the inorder ouput is 9,5,1,7,2,12,8,4,3,11
 
-- Method 3: PostOrder
-- Steps: Visit left children then the right child then the parent.
-- In the example above, the postorder output is 9,1,2,12,7,5,3,11,4,8
+    - Method 3: PostOrder
+    - Steps: Visit left children then the right child then the parent.
+    - In the example above, the postorder output is 9,1,2,12,7,5,3,11,4,8
 
-- Method 4: LevelOrder
-- Steps: Visit the nodes at the same level from left to right before moving on to the next level
-- In the example above, the levelorder output is 8,5,4,9,7,11,1,12,3,2
+      - Method 4: LevelOrder
+      - Steps: Visit the nodes at the same level from left to right before moving on to the next level
+      - In the example above, the levelorder output is 8,5,4,9,7,11,1,12,3,2
