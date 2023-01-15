@@ -85,3 +85,20 @@ Borders <br/>
 
 
 
+### CE212
+#### Lesson 1 - 4 
+###### Data Structures and Algos 
+
+### Lesson 3
+- Q) What is a Binary Tree data structure? 
+- It is a tree like data structure. <br/>
+
+- Q) Example of a binary tree data structure 
+<img src="/assets/binary_tree.PNG" alt="Binary Tree Example" width="50%"/>  
+- A is the root <br/>
+- Each entry is a node <br/>
+- Every node has a parent above it except the root <br/>
+- Each node has a left or right child or none or both <br/>
+- A node with no children is called a leaf <br/>
+- There are two subtrees in the example above (b,d,e and c,f,g) <br/>
+  
