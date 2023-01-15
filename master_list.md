@@ -132,3 +132,14 @@
       - Method 4: LevelOrder
       - Steps: Visit the nodes at the same level from left to right before moving on to the next level
       - In the example above, the levelorder output is 8,5,4,9,7,11,1,12,3,2
+
+-Q5) Binary Search Tree <br/>
+
+
+
+##### Useful Resources 
+- https://www.cs.yale.edu/homes/aspnes/pinewiki/BinaryTrees.html
+- https://www.andrew.cmu.edu/course/15-121/lectures/Trees/trees.html
+- http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#trees
+- https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BinaryTree.html
+- https://people.orie.cornell.edu/snp32/orie_6125/data-structures/binary-tree.html
