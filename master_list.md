@@ -94,7 +94,7 @@ Borders <br/>
 - It is a tree like data structure. <br/>
 
 - Q) Example of a binary tree data structure 
-<img src="/assets/binary_tree.png" alt="Binary Tree Example" width="30%"/>  
+<img src="/assets/binary_tree.png" alt="Binary Tree Example" width="20%"/>  
 - A is the root <br/>
 - Each entry is a node <br/>
 - Every node is connected by links called edges which defines the relationships between <br/>
@@ -105,5 +105,17 @@ Borders <br/>
 - A node contains a value or data <br/>
 - There are two subtrees in the example above (b,d,e and c,f,g) <br/>
 - The height of a tree is the length of the longest path to the leaf <br/>
-- The depth of a node <br/>
+- In the example above, the height of a tree is 4 <br/>
+- The size of a tree is the number of nodes <br/>
+- In the example above, the size of a treee is 8 <br/>
+- The depth of a node is the length of the path from the root that particular node <br/> 
+- In the example above, the depth of node 8 is 4 <br/> 
+- The height of a node is measured from the node to the deepest leaf <br/>
+- In the example above, the height of node 2 is 3 <br/> 
+
+- Q) Definition of tree traversal ? <br/>
+-  <br/>
+
+- Q) How do we traverse a tree ? <br/>
+-  <br/>
   
