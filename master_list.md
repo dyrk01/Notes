@@ -94,11 +94,16 @@ Borders <br/>
 - It is a tree like data structure. <br/>
 
 - Q) Example of a binary tree data structure 
-<img src="/assets/binary_tree.PNG" alt="Binary Tree Example" width="50%"/>  
+<img src="/assets/binary_tree.png" alt="Binary Tree Example" width="30%"/>  
 - A is the root <br/>
 - Each entry is a node <br/>
+- Every node is connected by links called edges which defines the relationships between <br/>
 - Every node has a parent above it except the root <br/>
 - Each node has a left or right child or none or both <br/>
+- Every node can have a maximum of 2 nodes hence it is called a binary tree <br/>
 - A node with no children is called a leaf <br/>
+- A node contains a value or data <br/>
 - There are two subtrees in the example above (b,d,e and c,f,g) <br/>
+- The height of a tree is the length of the longest path to the leaf <br/>
+- The depth of a node <br/>
   
