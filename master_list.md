@@ -109,6 +109,9 @@
 - In the example above, the depth of node 3 is 3 
 - The height of a node is measured from the node to the deepest leaf 
 - In the example above, the height of node 2 is 4
+- Formula to calculate height of tree and max nodes in the tree are 
+- Height: h 
+- Max nodes in the tree: 2^h+1 - 1
 
 -Q3) Definition of tree traversal ?
 - Tree traversal is a process where it visits all the nodes in the tree 
@@ -133,11 +136,28 @@
       - Steps: Visit the nodes at the same level from left to right before moving on to the next level
       - In the example above, the levelorder output is 8,5,4,9,7,11,1,12,3,2
 
--Q5) Binary Search Tree <br/>
+-Q5) Binary Search <br/>
+- Binary Search is a search algorithm for finding an element's position in a sorted array <br/>
+- Binary Search can only be implemented only on a sorted list of items. <br/>
+- You would like to find the value 4 in the example bellow <br/>
+<img src="/assets/binary_search.png" alt="Binary Search Example" width="15%"/> 
 
+- Step 1: Set two points low and high at the lowest and highest positions 
+- Low: 3 
+- High: 9
+- Step 2: Find the middle array which is 6
+- If x is greater than middle value, compare with the middle elements on the right side of the array </br>
+- If x is smalller than middle value, compare with the middle elements on the left side of the array </br>
+- Step 3: Repeat the previous steps till there is middle element between low and high value </br>
 
+-Q) What affects the speed and efficiency of an algorithm? <br/>
+- Asymptiotic notations help to measure the efficiency of an algorithm
+- Examples: Big O Notation, Omega notation and Theta notation </br>
+
+-Q) 
 
 ##### Useful Resources 
+- https://www.programiz.com/dsa/selection-sort
 - https://www.cs.yale.edu/homes/aspnes/pinewiki/BinaryTrees.html
 - https://www.andrew.cmu.edu/course/15-121/lectures/Trees/trees.html
 - http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#trees
