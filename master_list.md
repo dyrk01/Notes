@@ -154,15 +154,12 @@
 - Asymptiotic notations help to measure the efficiency of an algorithm
 - Examples: Big O Notation, Omega notation and Theta notation </br>
 
--Q)What is a complete tree?
-
 -Q) What is the Heap property ?
-- Blanket Answer 
+- It is a complete tree.
+- Levels are filled from left to riht
+- Nodes are fillled from the left to right
+- Value of node is greater than or equal (Heap property
 
--Q) What are Heaps? 
-- There are two properties.<br/> 
-- It is a complete tree <br/>
-- 
 
 -Q) What are the types of heap complete tree
 - Max Heap: Root node has the largest value and the value gets smaller as we progress in each level of the tree <br/>
